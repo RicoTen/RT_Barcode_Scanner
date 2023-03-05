@@ -1,0 +1,16 @@
+{
+    "name": "RTPlugins.BarcodeScanning",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fcf913f9e0b15364989e25bfbc6e15f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
